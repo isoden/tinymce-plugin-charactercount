@@ -1,0 +1,2 @@
+# tinymce-plugin-character-counter
+
