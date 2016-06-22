@@ -1,0 +1,27 @@
+{
+  "name": "tinymce-plugin-character-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isoden/tinymce-plugin-character-counter.git"
+  },
+  "keywords": [],
+  "author": "isoden <isoda@maboroshi.biz> (http://isoden.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isoden/tinymce-plugin-character-counter/issues"
+  },
+  "homepage": "https://github.com/isoden/tinymce-plugin-character-counter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-qunit": "^1.4.0",
+    "qunitjs": "^2.0.0",
+    "tinymce": "^4.3.13"
+  }
+}
