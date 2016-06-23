@@ -1,5 +1,12 @@
-(function () {
-  'use strict'
+/*!
+ * tinymce.plugin.charactercount v1.0.0
+ * https://github.com/isoden/tinymce-plugin-charactercount
+ * 
+ * @author isoden <isoda@maboroshi.biz>
+ * Licensed under the MIT License
+ */
+(function (tinymce) {
+  'use strict';
 
   tinymce.PluginManager.add('charactercount', function (editor) {
     /**
