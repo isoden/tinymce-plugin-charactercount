@@ -1,4 +1,4 @@
-# tinymce-plugin-character-counter
+# tinymce-plugin-charactercount
 
 ## Demo
 
