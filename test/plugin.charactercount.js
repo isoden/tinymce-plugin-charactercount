@@ -6,6 +6,7 @@ QUnit.module('tinymce.plugins.charactercount', {
     tinymce.init({
       selector              : 'textarea',
       plugins               : 'charactercount',
+      entity_encoding       : 'raw',
       init_instance_callback: function (editor) {
         window.editor = editor;
         done();
