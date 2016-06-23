@@ -55,7 +55,7 @@
         html = '';
       }
 
-      return html.replace(/<p> <\/p>/gi, '');
+      return html.replace(/<p>\s<\/p>/gi, '');
     }
 
     /**
